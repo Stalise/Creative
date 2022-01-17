@@ -1,11 +1,11 @@
-### Creative - одностраничный сайт.
+### [Creative - одностраничный сайт.](https://stalise.github.io/Creative/)
 Адаптивно-отзывчивая верстка до 320px с применением JavaScript.  
 Мой первый готовый проект.
 
-Стек:
+##### Стек:
 * HTML
 * SCSS
 * JS
 
-Обзор:
+##### Обзор:
 ![screenshots](./ICON/creative_fon.png)
